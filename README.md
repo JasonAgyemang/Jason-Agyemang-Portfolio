@@ -14,7 +14,7 @@
 <a name="main page"></a>
 <hr>
 
-## Education
+## Main Page
 ### Univeristy of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
@@ -25,8 +25,8 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
 </ul>
 
-<a name="skills"></a>
-#### Daniels Distinction Portfolio
+<a name="skillspage"></a>
+#### Skills
 In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
 
 <table>
@@ -43,10 +43,10 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-<a name="projects"></a>
+<a name="projectspage"></a>
 <hr>
 
-## Jobs and Internships
+## Projects
 <i>See my [resume](/HannahMcDonaldResume.pdf) and [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
@@ -54,7 +54,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 <a name="skills"></a>
 <hr>
 
-## Skills
+## Work Experience
 
 <table>
   <tr>
