@@ -1,12 +1,12 @@
-# Jason-Agyemang-Portfolio
+# Jason-Agyemang-Port
+
 <a name="top"></a>
 <hr>
 
-## Welcome! This is a little about me and a sampling of my work.
+## Welcome! This is a little about me, samples of my work, and details of my work experience
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#mainpage)
-[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#skills)
-[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#workexamples)
+[<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#projects)
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#workexperience)
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#leadership&communityinvolvement)
 
@@ -25,7 +25,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
 </ul>
 
-<a name="DanielsDistinction"></a>
+<a name="skills"></a>
 #### Daniels Distinction Portfolio
 In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
 
@@ -43,7 +43,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-<a name="profExp"></a>
+<a name="projects"></a>
 <hr>
 
 ## Jobs and Internships
