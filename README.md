@@ -11,7 +11,7 @@
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#leadership&communityinvolvement)
 
 
-<a name="education"></a>
+<a name="main page"></a>
 <hr>
 
 ## Education
