@@ -39,7 +39,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 <b>LinkedIn</b>: [LinkedIn](https://www.linkedin.com/in/jasonagyemang/)</i>
 
-<b>Resume</b>:[resume](/HannahMcDonaldResume.pdf)
+<b>Resume</b>:[resume](/JasonAgyemangResume24.pdf)
 
 [<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](#top)
 [<img src="https://user-images.githubusercontent.com/91146906/163692713-13e3fdac-bef7-47f0-85d3-6c98086204cf.svg" height="35"/>](https://www.youtube.com/watch?v=Wo9jiR-w170)
