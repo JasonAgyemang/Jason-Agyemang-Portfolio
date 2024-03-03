@@ -48,27 +48,39 @@ Bachelor of Science Business Administration – Business Information and Analyti
 <hr>
 
 ## Skills
-In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
+I have passionately cultivated my skills and achieved Microsoft Office Excel Expert Certification, along with Specialist-Associate Certificates in PowerPoint and Word. These certifications attest to my proficiency in essential business tools. Actively broadening my skill set, I am currently enhancing my capabilities in SQL, Tableau, Python, and Power BI to stay ahead in this ever-evolving field. 
+
+
 
 <table>
   <tr>
-    <td>
-      <img src="https://user-images.githubusercontent.com/91146906/163692219-efc3d673-751e-4734-8667-21a3aae17f44.jpg" height="460">
-      <br><i>Daniels Distinction Presentation April 2022</i>
-      </td>
+    <th>Tools and Technical Skills</th>
+    <th>Certifications</th>
   </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#top)
-[<img src="https://user-images.githubusercontent.com/91146906/163692713-13e3fdac-bef7-47f0-85d3-6c98086204cf.svg" height="35"/>](https://www.youtube.com/watch?v=Wo9jiR-w170)
-
+  <tr>
+    <td>
+     <ul>
+        <li>SQL</li>
+        <li>Visual Basic</li>
+        <li>Python</li>
+        <li>R</li>
+        <li>Excel</li>
+        <li>Microsoft SQL Server Management Studio</li>
+        <li>Microsoft Visual Studio</li>
+        <li>Tableau</li>
+       <li>PowerBI</li>
+        <li>Trello</li>
+      </ul>
+    </td>
+    <td>
+     
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
 <a name="projects"></a>
 <hr>
 
 ## Projects
-<i>See my [resume](/HannahMcDonaldResume.pdf) and [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#top)
 
