@@ -11,7 +11,7 @@
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#leadership&communityinvolvement)
 
 
-<a name="main page"></a>
+<a name="mainpage"></a>
 <hr>
 
 ## Main Page
@@ -25,7 +25,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
 </ul>
 
-<a name="skillspage"></a>
+<a name="skills"></a>
 #### Skills
 In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
 
@@ -43,7 +43,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
-<a name="projectspage"></a>
+<a name="projects"></a>
 <hr>
 
 ## Projects
