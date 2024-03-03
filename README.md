@@ -29,15 +29,17 @@ Bachelor of Science Business Administration – Business Information and Analyti
 
 <ul>
   <li><b> Dean's List</b>: On the Dean's List for 8 Quarters which requires undergraduate students to achieve a grade point average of 3.75 or above for that quarter while taking at least 12 credit .</li>
-  <li><b>ANDREW H. WOOD Award</b>: This award goes to the students with the highest scholarship ranking in the 2021-2022 class.</li>
-  <li><b>Daniels Award for Excellence</b>: This is awarded to a student who has made an outstanding contribution to the College and demonstrates the Daniels' values of leadership, ethical behavior, appreciation of diversity, and service to the community.</li>
-  <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
+  
 </ul>
 
 ### Contanct Information
-<b>Email</b>:jagyemang@gmail.com
+<b>Email</b>:jagyemang995@gmail.com
 
 <b>Phone Number</b>: 720-451-9743
+
+<b>LinkedIn</b>: [LinkedIn](https://www.linkedin.com/in/jasonagyemang/)</i>
+
+<b>Resume</b>:[resume](/HannahMcDonaldResume.pdf)
 
 [<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](#top)
 [<img src="https://user-images.githubusercontent.com/91146906/163692713-13e3fdac-bef7-47f0-85d3-6c98086204cf.svg" height="35"/>](https://www.youtube.com/watch?v=Wo9jiR-w170)
