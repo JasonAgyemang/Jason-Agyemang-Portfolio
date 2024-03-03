@@ -5,9 +5,6 @@
 
 ## Welcome! This is a little about me, samples of my work, and details of my work experience
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#mainpage)
-<a href="#mainpage">
-  <img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35" alt="mainpage">
-</a>
 
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#skills)
 [<img src="https://user-images.githubusercontent.com/91146906/152290724-72946642-3e58-4ba3-b5b8-b687628526b1.svg" height="35"/>](#projects)
@@ -18,7 +15,7 @@
 <a name="mainpage"></a>
 <hr>
 
-## Main Page
+## MainPage
 ### Univeristy of Denver, Daniels College of Business
 Bachelor of Science Business Administration – Business Information and Analytics, June 2024
 
@@ -29,8 +26,15 @@ Bachelor of Science Business Administration – Business Information and Analyti
   <li><b>Outstanding Business Information and Analytics Undergraduate</b>: Awarded in recognition of work at Daniels within Business Information and Analytics.</li>
 </ul>
 
+[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](#top)
+[<img src="https://user-images.githubusercontent.com/91146906/163692713-13e3fdac-bef7-47f0-85d3-6c98086204cf.svg" height="35"/>](https://www.youtube.com/watch?v=Wo9jiR-w170)
+
+[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+
 <a name="skills"></a>
-#### Skills
+<hr>
+
+## Skills
 In pursuing Distinction in Business Analytics from the University of Denver, I compiled a portfolio highlighting my experiences and work throughout my undergraduate years. 
 
 <table>
@@ -42,7 +46,7 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
   </tr>
 </table>
 
-[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/DanielsDistinctionPortfolio/#top)
+[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#top)
 [<img src="https://user-images.githubusercontent.com/91146906/163692713-13e3fdac-bef7-47f0-85d3-6c98086204cf.svg" height="35"/>](https://www.youtube.com/watch?v=Wo9jiR-w170)
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
@@ -53,9 +57,9 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
 ## Projects
 <i>See my [resume](/HannahMcDonaldResume.pdf) and [LinkedIn](https://www.linkedin.com/in/hannah-m-mcdonald/)</i>
 
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+[<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#top)
 
-<a name="skills"></a>
+<a name="workexperience"></a>
 <hr>
 
 ## Work Experience
@@ -89,29 +93,4 @@ In pursuing Distinction in Business Analytics from the University of Denver, I c
        <li><a href = "https://www.credly.com/badges/7204aaa1-f592-4582-bc1c-7444f5d49cba/public_url">Microsoft Associate Outlook 2019</a></li>
       </ul>
     </td>
-  </tr>
-  <tr>
-    <th>CliftonStrengths (Fall 2018)</th>
-    <th>Other Skills</th>
- </tr>
- <tr>
-   <td>
-     <ol>
-        <li>Responsibility</li>
-        <li>Learner</li>
-        <li>Discipline</li>
-        <li>Developer</li>
-        <li>Achiever</li>
-     </ol>
-   </td>
-   <td>
-     <ul>
-        <li>Teaching</li>
-        <li>Facilitating</li>
-       <li>Problem Solving</li>
-     </ul>
-   </td>
- </tr>
-</table>
-
-[<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+ 
