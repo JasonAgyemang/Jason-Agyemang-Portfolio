@@ -82,6 +82,16 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 
 ## Projects
 
+### Specfic Leaf Area Related to Dams 
+![Poster](https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/RussianLeaves.png?raw=true)
+
+### Kindbody Conversion Rates 
+
+
+
+
+
+
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35" alt="Back to Top">](#top)
 
