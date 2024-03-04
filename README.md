@@ -51,30 +51,20 @@ Bachelor of Science Business Administration – Business Information and Analyti
 I have passionately cultivated my skills and achieved Microsoft Office Excel Expert Certification, along with Specialist-Associate Certificates in PowerPoint and Word. These certifications attest to my proficiency in essential business tools. Actively broadening my skill set, I am currently enhancing my capabilities in SQL, Tableau, Python, and Power BI to stay ahead in this ever-evolving field. 
 
 
-
-<table>
-  <tr>
-    <th>Tools and Technical Skills</th>
-    <th>Certifications</th>
-  </tr>
-  <tr>
-    <td>
-     <ul>
-        <li>SQL</li>
-        <li>Visual Basic</li>
-        <li>Python</li>
-        <li>R</li>
-        <li>Excel</li>
-        <li>Microsoft SQL Server Management Studio</li>
-        <li>Microsoft Visual Studio</li>
-        <li>Tableau</li>
-       <li>PowerBI</li>
-        <li>Trello</li>
-      </ul>
-    </td>
-    <td>
+  | Projects | Technical & Soft Skills Used | Insights|
+|----------|----------|----------|
+| ROI Hormone Therpay(Posterity Health)  | Microsoft Excel | Utilized Advance Excel skills such Pivot tables,  V-Lookup Formulas, Data Analysis tool kit help unravel the ROI of 200 Hormone Therapy patients which was used Venture Capital Pitch by stakeholders |
+| Enterprise Data Warehousing Project | Power BI| Utilized Power BI to create 4 dashboards to visualize and provide insight on the profit generated for a Shoe Company for SQL warehouse data project with a 1000 records |
+| Row 3, Col 1 | Row 3, Col 2 | Row 3, Col 3 |
      
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
+
+
+
+
+
+
+
 
 <a name="projects"></a>
 <hr>
