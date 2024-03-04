@@ -1,5 +1,8 @@
 # Jason-Agyemang-Portfolio
 
+# Headshot
+![Picture of Me](https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/IMG_2092.jpg?raw=true)
+
 <a name="top"></a>
 <hr>
 
