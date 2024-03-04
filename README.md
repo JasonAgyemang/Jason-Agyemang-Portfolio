@@ -86,7 +86,9 @@ I have passionately cultivated my skills and achieved Microsoft Office Excel Exp
 ![Poster](https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/RussianLeaves.png?raw=true)
 
 ### Kindbody Conversion Rates 
+![Patients](https://github.com/Jage73/Jason-Agyemang-Portfolio/blob/main/Patients.png?raw=true)
 
+<b>Whole PowerPoint</b>: [Kindbody](https://denveru-my.sharepoint.com/:p:/r/personal/jay_agyemang_du_edu/_layouts/15/Doc.aspx?sourcedoc=%7BB35A5221-1EF5-487A-95AB-6435ED42DC69%7D&file=a_Propensitytoact_brief.pptx&action=edit&mobileredirect=true)</i>
 
 
 
